@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+
+# Environment
+.env
+
+
+# Streamlit
+.streamlit/
+
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+# Temporary files
+*.pdf
+*.log
